@@ -1,0 +1,51 @@
+{
+    "books": [{
+        "Id": 6442686,
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "release_date": "July 29, 1954",
+        "pages": 1323
+    }, {
+        "Id": 6599891,
+        "name": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "release_date": "June 26, 1997",
+        "pages": 256
+    }, {
+        "Id": 8520842,
+        "name": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "release_date": "June 2, 1998",
+        "pages": 251
+    }, {
+        "Id": 2112461,
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling",
+        "release_date": "July 8, 1999",
+        "pages": 317
+    }, {
+        "Id": 9097893,
+        "name": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling",
+        "release_date": "July 8, 2000",
+        "pages": 636
+    }, {
+        "Id": 9603713,
+        "name": "Harry Potter and the Order of the Phoenix",
+        "author": "J.K. Rowling",
+        "release_date": "June 21, 2003",
+        "pages": 766
+    }, {
+        "Id": 865727,
+        "name": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling",
+        "release_date": "July 16, 2005",
+        "pages": 607
+    }, {
+        "Id": 2348293,
+        "name": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "release_date": "March 28, 2006",
+        "pages": 689
+    }]
+}
